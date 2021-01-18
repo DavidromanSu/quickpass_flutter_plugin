@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - NTESQuickPass (2.2.3)
+  - quickpass_flutter_plugin (0.0.1):
+    - Flutter
+    - NTESQuickPass
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - quickpass_flutter_plugin (from `.symlinks/plugins/quickpass_flutter_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - NTESQuickPass
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  quickpass_flutter_plugin:
+    :path: ".symlinks/plugins/quickpass_flutter_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  NTESQuickPass: 93258ba86b772d5874ad885b944cf5e6ddc49b32
+  quickpass_flutter_plugin: 1033b1bb7fd91481a090b2515be3d155494f02e6
+
+PODFILE CHECKSUM: 0a61b9ba83d2b7a9c9f75927de728eb20a951cef
+
+COCOAPODS: 1.10.0
